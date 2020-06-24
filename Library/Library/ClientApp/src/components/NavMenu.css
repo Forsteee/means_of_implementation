@@ -1,0 +1,41 @@
+﻿a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+#buttons {
+    background-color: #797EF9;
+    border-radius: 0;
+    border-color: black;
+    width: 129px;
+}
+.form-control {
+    min-width: 600px;  
+}
+#m {
+    margin:10px;
+}
+#m1 {
+    margin-bottom: 40px;
+}
+.form-group {
+    margin: auto;
+}
+.input-group {
+   margin-top:10px;
+}
+.d {
+   text-align:right;
+}
+html {
+    font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}

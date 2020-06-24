@@ -1,0 +1,15 @@
+﻿.info {
+  margin: 0 120px;
+  padding-top: 50px;
+}
+    .info p {
+        font-family:Arial;
+        font-size:14pt;
+    }
+
+.info-title {
+    color: #797EF9;
+    font-size: 32pt !important;
+    font-weight: 700;
+    margin-bottom: 50px;
+}

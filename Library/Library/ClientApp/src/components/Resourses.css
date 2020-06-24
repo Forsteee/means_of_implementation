@@ -1,0 +1,39 @@
+.container {
+    height: 970px;
+}
+
+.row {
+    height: 100%;
+}
+.d-flex {
+    width:120px;
+    height:140px;
+}
+.col-3 {
+}
+.media {
+    height: 210px;
+    padding: 10px 10px 10px 10px;
+    background-color: #A4E7FD;
+}
+
+.btn {
+
+}
+
+.col {
+    background-color: white;
+}
+
+
+
+#timetable {
+    height: 55%;
+    background-color: white;
+}
+
+#news {
+    height: 100%;
+}
+
+
